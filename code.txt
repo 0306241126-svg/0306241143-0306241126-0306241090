@@ -1,3 +1,2 @@
 hello world
-xin chao linh sv1
-xin chao ngo gia bao sv2
+
